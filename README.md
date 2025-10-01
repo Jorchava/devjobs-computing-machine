@@ -2,26 +2,25 @@
 
 # 🚀 JSCamp InfoJobs
 
-Bienvenidos al bootcamp intensivo de JavaScript y desarrollo web full-stack diseñado para llevarte desde los fundamentos hasta las tecnologías más avanzadas del ecosistema JavaScript. Veremos HTML, CSS, JavaScript, TypeScript, Node.js, SQL, CI/CD y Docker.
+Mi proyecto paso a paso guided en el bootcamp intensivo de JavaScript y desarrollo web full-stack: HTML, CSS, JavaScript, TypeScript, Node.js, SQL, CI/CD y Docker.
 
 ## 🎨 El Proyecto Práctico
 
 ![CleanShot 2025-10-01 at 20 26 08@2x](https://github.com/user-attachments/assets/d9abec4d-ac41-4962-845c-93006bfe768b)
 
-A lo largo de este bootcamp, construiremos un proyecto completo **desde cero y paso a paso**, aplicando todos los conocimientos de cada módulo.
+Proyecto **desde cero y paso a paso**, aplicando todos los conocimientos de cada módulo.
 
 👉 [Ver diseño del proyecto](https://stitch.withgoogle.com/projects/7508115667617706440)
 
-Este proyecto te permitirá consolidar todo lo aprendido y tener una aplicación real en tu portafolio.
+Con el fin de agregar una aplicación real en mi portafolio.
 
 ## 📺 La Plataforma
 
-En **[JSCamp.dev](https://jscamp.dev)** encontrarás todos los videos y contenido del bootcamp para que puedas revisarlo cuando quieras. El registro es gratis.
-Los videos y materiales se irán subiendo **poco a poco** a medida que avancemos en el bootcamp.
+**[JSCamp.dev](https://jscamp.dev)** plataforma de registro gratis.
 
-### ¿Tiene certificado?
+### ¿certificado?
 
-Sí, existe un certificado opcional y muy limitado de pago que incluye:
+Había un certificado de pago opcional y cupos limitados (Yo no):
 
 - 🎓 **Certificado Digital** - Certifica tus logros en el bootcamp
 - 📝 **Seguimiento de Ejercicios** - Revisaremos y corregiremos tus ejercicios
@@ -29,8 +28,6 @@ Sí, existe un certificado opcional y muy limitado de pago que incluye:
 - 🎥 **Directos Exclusivos** - Clases de repaso exclusivas con dudas y preguntas
 - 📄 **Revisión de tu CV** - Equipo de expertos revisan tu CV y te dan feedback
 - 🏢 **Workshop Presencial** - Entrada asegurada a los workshops de Barcelona y Madrid
-
-**Entra a [https://jscamp.dev](https://jscamp.dev), inicia sesión y consigue acceso.**
 
 ## 📚 Contenido del Bootcamp
 
@@ -71,18 +68,16 @@ Este bootcamp es impartido por **midudev**, desarrollador y creador de contenido
 
 ## 🎯 Objetivos
 
-Al finalizar JSCAMP serás capaz de:
-
 - ✅ Construir aplicaciones web completas desde cero
 - ✅ Dominar el ecosistema de JavaScript moderno
 - ✅ Crear APIs REST con Node.js
 - ✅ Desarrollar interfaces con React
 - ✅ Implementar bases de datos SQL
 - ✅ Configurar pipelines de CI/CD
-- ✅ Containerizar aplicaciones con Docker
+- ✅ "Containerizar" aplicaciones con Docker
 - ✅ Aplicar TypeScript en proyectos reales
 
-## 🚀 Cómo Empezar
+## 🚀 Cómo Empezar por tu propia cuenta, desde el repo del instructor
 
 Cada módulo contiene ejercicios prácticos y proyectos reales. Navega a la carpeta correspondiente y sigue las instrucciones.
 
@@ -98,4 +93,4 @@ cd jscamp/00-html-css
 
 ---
 
-⭐️ Si este contenido te resulta útil, no olvides dar una estrella al repositorio
+⭐️ Si este contenido te resulta útil, no olvides dar una estrella al repositorio de [midudev](https://github.com/midudev/jscamp)
