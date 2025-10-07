@@ -215,7 +215,7 @@ form input[type="text"] {
 }
 
 form input[type="text"]::placeholder {
-    color: #64748b;
+    color: var(--text-secondary);
 }
 
 form button[type="submit"] {
